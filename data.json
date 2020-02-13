@@ -1,0 +1,11 @@
+{
+	"drugs": ["tabaco", "cannabis"],
+	"goals": ["estudio", "busco trabajo", "trabajo"],
+	"surveys": {
+		"test": "https://docs.google.com/forms/d/e/1FAIpQLScVpdufkNbVAzwnJ2hUdbRyPS15T64oNMc95s0TPG16kdH6bg/viewform?embedded=true&usp=pp_url&entry.983076509="
+	},
+	"drugSurveys": {
+		"tabaco": ["test"],
+		"cannabis": ["test"]
+	}
+}
