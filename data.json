@@ -2,10 +2,26 @@
 	"drugs": ["tabaco", "cannabis"],
 	"goals": ["estudio", "busco trabajo", "trabajo"],
 	"surveys": {
-		"test": "https://docs.google.com/forms/d/e/1FAIpQLScVpdufkNbVAzwnJ2hUdbRyPS15T64oNMc95s0TPG16kdH6bg/viewform?embedded=true&usp=pp_url&entry.983076509="
+		"sociodemograficos": "https://docs.google.com/forms/d/e/1FAIpQLSewHFg1iEDY05mSSddHTTHTPVn_YB4HhsfNlBn9xAGzcMrQnQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"cannabisSDSantes": "https://docs.google.com/forms/d/e/1FAIpQLSfVO0FWpzOvYTuCvSdkZVJoTbHV3jeuWkNCjWYXO9W--DoWkw/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"cannabisSDSdespues": "https://docs.google.com/forms/d/e/1FAIpQLSfVO0FWpzOvYTuCvSdkZVJoTbHV3jeuWkNCjWYXO9W--DoWkw/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"tabacoFagestromAntes": "https://docs.google.com/forms/d/e/1FAIpQLSd9CMhk4wgahb-d3jfYXc2vygSqJlnwG77TuaKJttLl_DPjUA/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"tabacoFagestromDespues": "https://docs.google.com/forms/d/e/1FAIpQLSd9CMhk4wgahb-d3jfYXc2vygSqJlnwG77TuaKJttLl_DPjUA/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"multicageAntes": "https://docs.google.com/forms/d/e/1FAIpQLSdO2UaNdpGliI9nvo0d5qpdj-QP16durxd68ctetL-G37IinA/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"multicageDespues": "https://docs.google.com/forms/d/e/1FAIpQLSdO2UaNdpGliI9nvo0d5qpdj-QP16durxd68ctetL-G37IinA/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"estadiosAntes": "https://docs.google.com/forms/d/e/1FAIpQLSe8sCMrHRtzawq6oZkiqHIVNr_twO4WryXSLsqj354-EOVLoA/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"estadiosDespués": "https://docs.google.com/forms/d/e/1FAIpQLSe8sCMrHRtzawq6oZkiqHIVNr_twO4WryXSLsqj354-EOVLoA/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"procesosTabacoAntes": "https://docs.google.com/forms/d/e/1FAIpQLSfB9xorVlOtzBVb5NawUTZVJwz43tzru_Uvw0-CpjIXblrmuQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"procesosTabacoDespues": "https://docs.google.com/forms/d/e/1FAIpQLSfB9xorVlOtzBVb5NawUTZVJwz43tzru_Uvw0-CpjIXblrmuQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"procesosCannabisAntes": "https://docs.google.com/forms/d/e/1FAIpQLScJFFgtLwRhONqjOoGEXlm_aRjsrPk2TENIGvYWPMj-W8f9Vw/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"procesosCannabisDespues": "https://docs.google.com/forms/d/e/1FAIpQLScJFFgtLwRhONqjOoGEXlm_aRjsrPk2TENIGvYWPMj-W8f9Vw/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"balanceTabacoAntes": "https://docs.google.com/forms/d/e/1FAIpQLScnJimcY6fwBwPvYHB12bLt54OuUX1is9pD4lH9SjIu3gowjQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"balanceTabacoDespues": "https://docs.google.com/forms/d/e/1FAIpQLScnJimcY6fwBwPvYHB12bLt54OuUX1is9pD4lH9SjIu3gowjQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"balanceCannabisAntes": "https://docs.google.com/forms/d/e/1FAIpQLSfRI-UCyhSY2o9H1ogLfs75weiMXK1ek0TUlF1yXSNR0soz7g/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"balanceCannabisDespues": "https://docs.google.com/forms/d/e/1FAIpQLSfRI-UCyhSY2o9H1ogLfs75weiMXK1ek0TUlF1yXSNR0soz7g/viewform?embedded=true&usp=pp_url&entry.617143541="
 	},
 	"drugSurveys": {
-		"tabaco": ["test"],
-		"cannabis": ["test"]
+		"tabaco": ["sociodemograficos", "tabacoFagestromAntes", "multicageAntes", "estadiosAntes", "procesosTabacoAntes", "balanceTabacoAntes"],
+		"cannabis": ["sociodemograficos", "cannabisSDSantes", "multicageAntes", "estadiosAntes", "procesosCannabisAntes", "balanceCannabisAntes"]
 	}
 }
