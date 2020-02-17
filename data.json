@@ -18,7 +18,9 @@
 		"balanceTabacoAntes": "https://docs.google.com/forms/d/e/1FAIpQLScnJimcY6fwBwPvYHB12bLt54OuUX1is9pD4lH9SjIu3gowjQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
 		"balanceTabacoDespues": "https://docs.google.com/forms/d/e/1FAIpQLScnJimcY6fwBwPvYHB12bLt54OuUX1is9pD4lH9SjIu3gowjQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
 		"balanceCannabisAntes": "https://docs.google.com/forms/d/e/1FAIpQLSfRI-UCyhSY2o9H1ogLfs75weiMXK1ek0TUlF1yXSNR0soz7g/viewform?embedded=true&usp=pp_url&entry.617143541=",
-		"balanceCannabisDespues": "https://docs.google.com/forms/d/e/1FAIpQLSfRI-UCyhSY2o9H1ogLfs75weiMXK1ek0TUlF1yXSNR0soz7g/viewform?embedded=true&usp=pp_url&entry.617143541="
+		"balanceCannabisDespues": "https://docs.google.com/forms/d/e/1FAIpQLSfRI-UCyhSY2o9H1ogLfs75weiMXK1ek0TUlF1yXSNR0soz7g/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"calidadVida": "https://docs.google.com/forms/d/e/1FAIpQLSf048uJ82_fKIeqvuQGk9HP7CLq0OCpt-Npv0NHyqM7-YMSGQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"satisfaccion": "https://docs.google.com/forms/d/e/1FAIpQLSfGxBv_EgTGVJ1AoRFk39e_a4-XuPBJItY_OcdWLQU1r0SoCw/viewform?embedded=true&usp=pp_url&entry.617143541="
 	},
 	"drugSurveys": {
 		"tabaco": ["sociodemograficos", "tabacoFagestromAntes", "multicageAntes", "estadiosAntes", "procesosTabacoAntes", "balanceTabacoAntes"],
