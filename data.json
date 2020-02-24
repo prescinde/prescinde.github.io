@@ -20,10 +20,12 @@
 		"balanceCannabisAntes": "https://docs.google.com/forms/d/e/1FAIpQLSfRI-UCyhSY2o9H1ogLfs75weiMXK1ek0TUlF1yXSNR0soz7g/viewform?embedded=true&usp=pp_url&entry.617143541=",
 		"balanceCannabisDespues": "https://docs.google.com/forms/d/e/1FAIpQLSfRI-UCyhSY2o9H1ogLfs75weiMXK1ek0TUlF1yXSNR0soz7g/viewform?embedded=true&usp=pp_url&entry.617143541=",
 		"calidadVida": "https://docs.google.com/forms/d/e/1FAIpQLSf048uJ82_fKIeqvuQGk9HP7CLq0OCpt-Npv0NHyqM7-YMSGQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
-		"satisfaccion": "https://docs.google.com/forms/d/e/1FAIpQLSfGxBv_EgTGVJ1AoRFk39e_a4-XuPBJItY_OcdWLQU1r0SoCw/viewform?embedded=true&usp=pp_url&entry.617143541="
+		"satisfaccion": "https://docs.google.com/forms/d/e/1FAIpQLSfGxBv_EgTGVJ1AoRFk39e_a4-XuPBJItY_OcdWLQU1r0SoCw/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"europasiAntes": "https://docs.google.com/forms/d/e/1FAIpQLSe5ZMpHNtxXeP4Pptx8W6Tw2HjXJ7XmkRAlyIMOV_4jKXqPLQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
+		"europasiDespues": "https://docs.google.com/forms/d/e/1FAIpQLSe5ZMpHNtxXeP4Pptx8W6Tw2HjXJ7XmkRAlyIMOV_4jKXqPLQ/viewform?embedded=true&usp=pp_url&entry.617143541="
 	},
 	"drugSurveys": {
-		"tabaco": ["sociodemograficos", "tabacoFagestromAntes", "multicageAntes", "estadiosAntes", "procesosTabacoAntes", "balanceTabacoAntes"],
+		"tabaco": ["sociodemograficos", "tabacoFagestromAntes", "multicageAntes", "europasiAntes","estadiosAntes", "procesosTabacoAntes", "balanceTabacoAntes"],
 		"cannabis": ["sociodemograficos", "cannabisSDSantes", "multicageAntes", "estadiosAntes", "procesosCannabisAntes", "balanceCannabisAntes"]
 	}
 }
