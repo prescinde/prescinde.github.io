@@ -25,7 +25,7 @@
 		"europasiDespues": "https://docs.google.com/forms/d/e/1FAIpQLSe5ZMpHNtxXeP4Pptx8W6Tw2HjXJ7XmkRAlyIMOV_4jKXqPLQ/viewform?embedded=true&usp=pp_url&entry.617143541="
 	},
 	"drugSurveys": {
-		"tabaco": ["sociodemograficos", "tabacoFagestromAntes", "multicageAntes", "europasiAntes","estadiosAntes", "procesosTabacoAntes", "balanceTabacoAntes"],
-		"cannabis": ["sociodemograficos", "cannabisSDSantes", "multicageAntes", "estadiosAntes", "procesosCannabisAntes", "balanceCannabisAntes"]
+		"tabaco": ["sociodemograficos", "tabacoFagestromAntes", "multicageAntes", "estadiosAntes", "procesosTabacoAntes", "balanceTabacoAntes"],
+		"cannabis": ["sociodemograficos", "cannabisSDSantes", "multicageAntes", "europasiAntes", "estadiosAntes", "procesosCannabisAntes", "balanceCannabisAntes"]
 	}
 }
