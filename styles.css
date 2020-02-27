@@ -385,6 +385,10 @@ input[type=checkbox]:checked + .checkbox {
 	white-space: nowrap;
 }
 
+.history-field > .content::first-letter {
+	text-transform: uppercase;
+}
+
 .empty-history {
 	margin: 0 25px 25px;
 	font-size: 20px;
