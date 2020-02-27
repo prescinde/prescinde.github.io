@@ -17,7 +17,7 @@ a {
 }
 
 p > a {
-	color: #0000EE;
+	text-decoration: underline;
 }
 
 button, label {
@@ -345,4 +345,48 @@ input[type=checkbox]:checked + .checkbox {
 
 .no-button {
 	background-color: #F14668;
+}
+
+.history-title {
+	margin-bottom: 35px;
+}
+
+.history-item {
+	margin: 0 25px 25px;
+	font-size: 20px;
+	color: #1B4084;
+}
+
+.history-item:not(:first-child) {
+	padding-top: 25px;
+	border-top: solid 1px rgb(216, 216, 216);
+}
+
+.history-field {
+	display: flex;
+	justify-content: space-between;
+}
+
+.history-field:not(:first-child) {
+	margin-top: 15px;
+}
+
+.history-field > .name {
+	margin-right: 0.5em;
+}
+
+.history-field > .name > span {
+	text-decoration: underline;
+}
+
+.history-field > .content {
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.empty-history {
+	margin: 0 25px 25px;
+	font-size: 20px;
+	color: #1B4084;
 }
