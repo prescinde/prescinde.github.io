@@ -175,7 +175,7 @@ input[type=checkbox]:checked + .checkbox {
 	outline: none;
 }
 
-.selection-form + button {
+.selection-form + button, .confirm-button {
 	width: calc(100% - 2 * 25px);
 	margin: auto auto 30px auto;
 }
@@ -391,6 +391,12 @@ input[type=checkbox]:checked + .checkbox {
 
 .empty-history {
 	margin: 0 25px 25px;
+	font-size: 20px;
+	color: #1B4084;
+}
+
+.info-text {
+	margin: 25px;
 	font-size: 20px;
 	color: #1B4084;
 }
