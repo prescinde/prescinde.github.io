@@ -400,3 +400,7 @@ input[type=checkbox]:checked + .checkbox {
 	font-size: 20px;
 	color: #1B4084;
 }
+
+.selection-title + .info-text {
+	margin-top: -10px;
+}
