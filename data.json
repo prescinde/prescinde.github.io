@@ -1,5 +1,6 @@
 {
 	"drugs": ["tabaco", "cannabis"],
+	"activities": ["ejercicio físico"],
 	"goals": ["estudio", "busco trabajo", "trabajo"],
 	"surveys": {
 		"sociodemograficos": "https://docs.google.com/forms/d/e/1FAIpQLSewHFg1iEDY05mSSddHTTHTPVn_YB4HhsfNlBn9xAGzcMrQnQ/viewform?embedded=true&usp=pp_url&entry.617143541=",
@@ -26,6 +27,7 @@
 	},
 	"drugSurveys": {
 		"tabaco": ["sociodemograficos", "tabacoFagestromAntes", "multicageAntes", "estadiosAntes", "procesosTabacoAntes", "balanceTabacoAntes"],
-		"cannabis": ["sociodemograficos", "cannabisSDSantes", "multicageAntes", "europasiAntes", "estadiosAntes", "procesosCannabisAntes", "balanceCannabisAntes"]
+		"cannabis": ["sociodemograficos", "cannabisSDSantes", "multicageAntes", "europasiAntes", "estadiosAntes", "procesosCannabisAntes", "balanceCannabisAntes"],
+		"ejercicio físico": ["sociodemograficos"]
 	}
 }
